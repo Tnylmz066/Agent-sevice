@@ -1,0 +1,15 @@
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

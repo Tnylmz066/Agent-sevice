@@ -1,0 +1,16 @@
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache

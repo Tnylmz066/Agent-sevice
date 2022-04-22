@@ -1,0 +1,10 @@
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\fatih.tanyilmaz\source\repos\Agent_Service\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
